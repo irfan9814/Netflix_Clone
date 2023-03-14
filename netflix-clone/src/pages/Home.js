@@ -1,10 +1,12 @@
-import React from 'react'
+import React from 'react';
+import Header from '../components/Header/Header';
+import Tabcomponent from '../components/Tabs';
 
 const Home = () => {
   return (
     <div>
-        <h2>Home</h2>
-      
+      <Header />   
+      <Tabcomponent />   
     </div>
   )
 }
