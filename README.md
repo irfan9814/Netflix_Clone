@@ -34,7 +34,9 @@
 - [Acknowledgments](#acknowledgement)
 
 ## 🧐 About <a name = "about"></a>
-Write about 1-2 paragraphs describing the purpose of your project.
+The purpose of this Netflix clone front-end project is to replicate the look and feel of the popular streaming service's website. By creating a clone of the Netflix front-end, developers can practice building real-world web applications with popular front-end frameworks React. This project also serves as an opportunity to learn about modern web development concepts such as data fetching from APIs, and using third-party libraries.
+
+Furthermore, the Netflix clone can be used as a portfolio project to showcase a developer's skills to potential employers or clients. It demonstrates their ability to work with complex front-end frameworks, build responsive web pages, and implement advanced features like video playback. By creating a fully functional clone of a popular website like Netflix, developers can showcase their creativity and attention to detail while also demonstrating their technical skills in a practical, real-world context.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
