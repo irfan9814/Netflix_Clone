@@ -63,7 +63,6 @@ And repeat
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo.
 
 ## 🔧 Running the tests <a name = "tests"></a>
 Explain how to run the automated tests for this system.
@@ -89,9 +88,8 @@ Add notes about how to use the system.
 Add additional notes about how to deploy this on a live system.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
+- [TMDB](https://www.themoviedb.org/) - Database
+- [ReactJS](https://legacy.reactjs.org/) - Web Framework/Library
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
 ## ✍️ Authors <a name = "authors"></a>
