@@ -76,23 +76,13 @@ To run the website, we need to open the terminal in vs code and run the command 
     </a>
 </p>
 <p align="center">
-  <a href="" rel="noopener">
-    
-    <img width=1400px height=800px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(88).png?raw=true" alt="Project demo">
-    
-</a>
+  <a href="" rel="noopener"><img width=1400px height=800px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(88).png?raw=true" alt="Project demo"></a>
 </p>
 <p align="center">
-  <a href="" rel="noopener">
-    
-    <img width=1400px height=800px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(89).png?raw=true" alt="Project demo">
- </a>
+  <a href="" rel="noopener"><img width=1400px height=800px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(89).png?raw=true" alt="Project demo"></a>
 </p>
 <p align="center">
-  <a href="" rel="noopener">
-    
- <img width=1400px height=800px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(90).png?raw=true" alt="Project demo"></a>
-</p>
+  <a href="" rel="noopener"><img width=1400px height=800px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(90).png?raw=true" alt="Project demo"></a></p>
 
 
 ## 🎈 Usage <a name="usage"></a>
