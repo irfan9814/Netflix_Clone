@@ -68,10 +68,13 @@ until finished
 Explain how to run the automated tests for this system.
 
 ### Break down into end to end tests
-Explain what these tests test and why
+To run the website, we need to open the terminal in vs code and run the command npm start. It will start the server on localhost. 
 
 ```
-Give an example
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(88).png?raw=true" alt="Project demo"></a>
+</p>
 ```
 
 ### And coding style tests
