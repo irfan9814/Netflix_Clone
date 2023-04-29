@@ -18,7 +18,7 @@
 
 ---
 
-<p align="center"> Few lines describing your project.
+<p align="center"> This project is a Netflix clone that utilizes the TMDB API and ReactJS to display a library of movies and TV shows.
     <br> 
 </p>
 
