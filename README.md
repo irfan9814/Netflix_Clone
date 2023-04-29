@@ -72,24 +72,27 @@ To run the website, we need to open the terminal in vs code and run the command 
 
 <p align="center">
   <a href="" rel="noopener">
-    <img width=1400px height=800px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(91).png?raw=true" alt="Project demo">
+    <img width=1400px height=600px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(91).png?raw=true" alt="Project demo">
     </a>
 </p>
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=800px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(88).png?raw=true" alt="Project demo"></a>
+  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(88).png?raw=true" alt="Project demo"></a>
 </p>
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=800px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(89).png?raw=true" alt="Project demo"></a>
+  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(89).png?raw=true" alt="Project demo"></a>
 </p>
 <p align="center">
-  <a href="" rel="noopener"><img width=1400px height=800px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(90).png?raw=true" alt="Project demo"></a></p>
+  <a href="" rel="noopener"><img width=1400px height=600px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(90).png?raw=true" alt="Project demo"></a></p>
 
 
 ## 🎈 Usage <a name="usage"></a>
-Add notes about how to use the system.
+-Clicking on Watch free for 30 days will redirect it to Netflix Show Page.
+-The tabs (Cancel at any time, Watch Anywhere, and Pick your price) are clickable and have more details about the plans available.
+-On Netflix page clicking on any show will play its Trailer if available.
+-Clicking on Netflix logo will redirect the page to the HomePage.
 
 ## 🚀 Deployment <a name = "deployment"></a>
-Add additional notes about how to deploy this on a live system.
+To deploy the website on live stream, we just need to run "npm start" on the terminal of vs code.
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [TMDB](https://www.themoviedb.org/) - Database
