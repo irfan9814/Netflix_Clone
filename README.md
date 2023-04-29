@@ -86,10 +86,10 @@ To run the website, we need to open the terminal in vs code and run the command 
 
 
 ## 🎈 Usage <a name="usage"></a>
--Clicking on Watch free for 30 days will redirect it to Netflix Show Page.
--The tabs (Cancel at any time, Watch Anywhere, and Pick your price) are clickable and have more details about the plans available.
--On Netflix page clicking on any show will play its Trailer if available.
--Clicking on Netflix logo will redirect the page to the HomePage.
+- Clicking on Watch free for 30 days will redirect it to Netflix Show Page.
+- The tabs (Cancel at any time, Watch Anywhere, and Pick your price) are clickable and have more details about the plans available.
+- On Netflix page clicking on any show will play its Trailer if available.
+- Clicking on Netflix logo will redirect the page to the HomePage.
 
 ## 🚀 Deployment <a name = "deployment"></a>
 To deploy the website on live stream, we just need to run "npm start" on the terminal of vs code.
