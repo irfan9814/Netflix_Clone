@@ -103,6 +103,6 @@ To deploy the website on live stream, we just need to run "npm start" on the ter
 - [@irfan9814](https://github.com/irfan9814) - Idea & Initial work
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
+- Skill-Lync
 - Inspiration: CodwWithVishal
 - References: https://youtu.be/pEWZQF-iTU8
