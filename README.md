@@ -1,4 +1,4 @@
-# project-documentation
+# Netflix Clone-documentation
 
 <p align="center">
   <a href="" rel="noopener">
