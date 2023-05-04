@@ -72,7 +72,7 @@ To run the website, we need to open the terminal in vs code and run the command 
 
 <p align="center">
   <a href="" rel="noopener">
-    <img width=1400px height=600px src="https://github.com/irfan9814/Netflix_Clone/blob/main/Screenshot%20(91).png?raw=true" alt="Project demo">
+    <img width=1400px height=600px src="https://drive.google.com/file/d/1aLlNoPX3jfvKm9xsW-eFx7aGAJzQLABP/view?usp=share_link" alt="Project demo">
     </a>
 </p>
 <p align="center">
