@@ -15,7 +15,7 @@ const Header = () => {
         <h1>Unlimited Movies, TV Showes and More</h1>
         <p>Watch Anywhere, Cancel Anytime</p>
         <Link to="/netflix-show" className='btn btn-xl btn-header'>
-          Watch Free for 30 Days
+          <h3>( Click Here )</h3> Watch Free for 30 Days
           <i className='fas fa-chevron-right btn-icon'></i>
         </Link>
 
