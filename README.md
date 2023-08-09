@@ -104,5 +104,5 @@ To deploy the website on live stream, we just need to run "npm start" on the ter
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 - Skill-Lync
-- Inspiration: CodwWithVishal
-- References: https://youtu.be/pEWZQF-iTU8
+- Inspiration: Netflix App
+- Took help from youtube and Google.
